@@ -1,14 +1,80 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>Tarjeta de crédito válida</title>
+  <link rel="stylesheet" href="style.css" />
+
+</head>
+
+<body>
+  <div>
+    <h1>SERIESLA.CO</h1>
+    <header>Unete a esta nueva experiencia donde podrás acceder a miles de películas y series de todo el mundo. Puedes
+      cancelar cuando quieras</header>
+    <h2>Precio mensual:$14.900</h2>
+
+    <button type="button" class="bttopen" id="open"> Adquirir</button>
+  </div>
+  <div class="contenedorflotante" id="contflotante" style="display:none;">
+    <button type="button" class="bttclose" id="close" onclick="hidden()">X</button>
+    <div class="flotante" id="flotante" style="display:contents;">
+      <p>
+      <form class="form">
+        <div class="cardholder">
+
+          <label class="form-label" for="holder">Nombre del Titular</label>
+          <input type="text" class="form-input" id="holder" placeholder="e.g Sandra Trujillo" autocomplete="off">
+        </div>
+        <div class="number">
+
+          <label class="form-label" for="Number">Numero de Tarjeta</label>
+          <input type="text" class="form-input" id="number" maxlength="19" placeholder="e.g 1234 5678 9012 3456"
+            autocomplete="off">
+        </div>
+        <div class="cvc">
+          <label class="form-label" for="cvc">CVC</label>
+          <input type="text" class="form-input" id="cvc" placeholder="e.g 123" maxlength="3">
+        </div>
+        <div class="fecha"></div>
+
+        <label class="form-label">Fecha de Exp. (MM/YY)</label>
+        <select>
+          <option value="01">Enero</option>
+          <option value="02">Febrero </option>
+          <option value="03">Marzo</option>
+          <option value="04">Abril</option>
+          <option value="05">Mayo</option>
+          <option value="06">Junio</option>
+          <option value="07">Julio</option>
+          <option value="08">Agosto</option>
+          <option value="09">Septiembre</option>
+          <option value="10">Octubre</option>
+          <option value="11">Noviembre</option>
+          <option value="12">Diciembre</option>
+        </select>
+        <select>
+          <option value="22"> 2022</option>
+          <option value="23"> 2023</option>
+          <option value="24"> 2024</option>
+          <option value="25"> 2025</option>
+          <option value="26"> 2025</option>
+          <option value="27"> 2027</option>
+        </select>
+        <div class="btt2"></div>
+        <div><button type="button" class="bttsubs" id="subs">Pagar</button></div>
+        <div>
+          <p1 id="finalCard" class="finCard"></p1>
+          <p2 id="finalText" class="finText"></p2>
+        </div>
+
+      </form>
+      </p>
+    </div>
+  </div>
+  <footer></footer>
+  <script src="index.js" type="module"></script>
+</body>
+
 </html>
