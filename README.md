@@ -2,12 +2,12 @@
 
 ## Índice
 
-* [1. Resumen del proyecto](#1Resumen-del-proyecto)
-* [2. Prototipo en papel](#2Prototipo-en-papel)
-* [3. Feedback de compañeras](#3Feedback-de-compañeras)
+* [1. Resumen del proyecto](#1-Resumen-del-proyecto)
+* [2. Prototipo en papel](#2-Prototipo-en-papel)
+* [3. Feedback de compañeras](#3-Feedback-de-compañeras)
 * [4. Prototipo Final](#4-Prototipo-Final)
 * [5. Feedback OH](#5-Feedback-OH)
-* [6. Investigacion UX](#6Investigacion-UX)
+* [6. Investigacion UX](#6-Investigacion-UX)
 
 ***
 

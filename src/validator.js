@@ -10,7 +10,7 @@ const validator = {
         posicionPar = parseInt(reversed[i]) * 2;
         if (posicionPar > 9) {
           //10 = 1 //  (10 -9) + 1 //(10-10)+1
-          //16 = 7 // (16-9) + 1 // (16 - 10)+1
+          //16 = 7 // (16-9) +  1// (16 - 10)+1
           posicionPar = (posicionPar - 10) + 1;
 
         }
