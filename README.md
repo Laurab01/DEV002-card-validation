@@ -5,8 +5,8 @@
 * [1. Resumen del proyecto](#1Resumen-del-proyecto)
 * [2. Prototipo en papel](#2Prototipo-en-papel)
 * [3. Feedback de compañeras](#3Feedback-de-compañeras)
-* [4. Prototipo Final](#4Prototipo-Final)
-* [5. Feedback OH](#5Feedback-OH)
+* [4. Prototipo Final](#4-Prototipo-Final)
+* [5. Feedback OH](#5-Feedback-OH)
 * [6. Investigacion UX](#6Investigacion-UX)
 
 ***
@@ -16,7 +16,7 @@ Decidi guiarme en el lado de las series, inspirandome con las pagina de pelicula
 donde se pueda entender para el usuario a la hora de hacer una subscripcion.
 
 ## 2. Prototipo en papel
-[prototipo](prototipo.jpeg)
+[![prototipo](prototipo.jpeg)
 
 ## 3. Feedback de compañeras
 Les agrada el nombre de la pagina y el diseño de esta.
