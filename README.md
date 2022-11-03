@@ -23,20 +23,22 @@ Les agrada el nombre de la pagina y el diseño de esta.
 
 ## 4. Prototipo Final
 ![Primer pantalla](src\Imagenes\primera.jpeg)
+***
 ![Segunda pantalla](src\Imagenes\segunda.jpeg)
-![Tercera pantalla](src\Imagenes\Ultima.jpeg)
+***
+![Visualizacion final](src\Imagenes\Ultima.jpeg)
 
 ## 5. Feedback OH
 En la Office Hours me explicaron como terminar la funcion de Algoritmo de Luhn ya que tenia una cosa que no funcionaba, 
 y me explico en como estaba estructurada en el proyecto. Tuvo buenos comentarios sobre el diseño.
 
 ## 6. Investigacion UX
-Quienes son los principales usuarios y objetivos en relación con el producto?
+#### 'Quienes son los principales usuarios y objetivos en relación con el producto?'
 Son las personas que tienen gusto en el lado de las series o peliculas y les gustaria adquirir una membresia. 
-Objetivos en relación con el producto.
+### 'Objetivos en relación con el producto.'
 Dar una breve descripcion donde se explique lo que pueden ver en la pagina, haciendo facil para el usuario
 poder adquirirlo. La informacion bancaria no sera compartida con nadie ya que se encripta la informacion de confirmacion. 
-Como soluciona los problemas/necesidades de usuarios?
+### 'Como soluciona los problemas/necesidades de usuarios?'
 Se enforca en ayudar a las personas en no salir de sus casas a comprar una pelicula o novela y gastar dinero en solo un producto, 
 Si no que en esta pagina ayuda a que por un valor puedas obtener muchas peliculas sin tener que salir de la casa. i
 
