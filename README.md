@@ -16,13 +16,15 @@ Decidi guiarme en el lado de las series, inspirandome con las pagina de pelicula
 donde se pueda entender para el usuario a la hora de hacer una subscripcion.
 
 ## 2. Prototipo en papel
-[![Prototipo principal](Prototipo.jpg)
+![Prototipo principal](src\Imagenes\Prototipo.jpg)
 
 ## 3. Feedback de compañeras
 Les agrada el nombre de la pagina y el diseño de esta.
 
 ## 4. Prototipo Final
-
+![Primer pantalla](src\Imagenes\primera.jpeg)
+![Segunda pantalla](src\Imagenes\segunda.jpeg)
+![Tercera pantalla](src\Imagenes\Ultima pantalla.jpeg)
 
 ## 5. Feedback OH
 En la Office Hours me explicaron como terminar la funcion de Algoritmo de Luhn ya que tenia una cosa que no funcionaba, 
