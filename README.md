@@ -24,7 +24,7 @@ Les agrada el nombre de la pagina y el diseño de esta.
 ## 4. Prototipo Final
 ![Primer pantalla](src\Imagenes\primera.jpeg)
 ![Segunda pantalla](src\Imagenes\segunda.jpeg)
-![Tercera pantalla](src\Imagenes\Ultima pantalla.jpeg)
+![Tercera pantalla](src\Imagenes\Ultima.jpeg)
 
 ## 5. Feedback OH
 En la Office Hours me explicaron como terminar la funcion de Algoritmo de Luhn ya que tenia una cosa que no funcionaba, 
