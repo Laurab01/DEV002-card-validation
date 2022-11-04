@@ -22,11 +22,11 @@ donde se pueda entender para el usuario a la hora de hacer una subscripcion.
 Les agrada el nombre de la pagina y el diseño de esta.
 
 ## 4. Prototipo Final
-![Primer pantalla](src\Imagenes\primera.jpeg)
+![Primer pantalla](./src/Imagenes/primera.jpeg)
 ***
-![Segunda pantalla](src\Imagenes\segunda.jpeg)
+![Segunda pantalla](./src/Imagenes/segunda.jpeg)
 ***
-![Visualizacion final](src\Imagenes\Ultima.jpeg)
+![Visualizacion final](./src/Imagenes/Ultima.jpeg)
 
 ## 5. Feedback OH
 En la Office Hours me explicaron como terminar la funcion de Algoritmo de Luhn ya que tenia una cosa que no funcionaba, 
