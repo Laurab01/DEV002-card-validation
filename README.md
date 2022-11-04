@@ -16,7 +16,7 @@ Decidi guiarme en el lado de las series, inspirandome con las pagina de pelicula
 donde se pueda entender para el usuario a la hora de hacer una subscripcion.
 
 ## 2. Prototipo en papel
-![Prototipo principal](src\Imagenes\Prototipo.jpg)
+![Prototipo principal](./src/Imagenes/Prototipo.jpeg)
 
 ## 3. Feedback de compañeras
 Les agrada el nombre de la pagina y el diseño de esta.
